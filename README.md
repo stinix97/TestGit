@@ -2,7 +2,7 @@
 
 This is my first repository!
 
-## Another SEction
+## Another Section
 
 * Bullet1
 * Bullet2
